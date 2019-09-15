@@ -86,3 +86,17 @@ numToEng(909) ➞ "nine hundred nine"
 
 *Notes There are no hyphens used (e.g. "thirty five" not "thirty-five").
 The word "and" is not used (e.g. "one hundred one" not "one hundred and one").
+
+****** Expert level************************************************************************
+----------------------------------------6--------------------------------------------------
+Added by Klutix
+
+Write a program to convert a natural number to Base 2(binary) or base 16(Hex) Bonus: allow up to base 62.
+
+Examples:
+
+numToBase(100,16) ➞ 64 (hex)
+
+numToBase(100,2)  ➞ 1100100 (binary)
+
+numToBase(100,62) ➞ 1c (BONUS: base 62)
